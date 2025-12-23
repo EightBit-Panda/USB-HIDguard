@@ -1,7 +1,7 @@
 # USB-HIDGuard
 
 USB-HIDGuard is a Windows application designed to protect users against malicious USB HID devices 
-(such as Rubber Ducky–style attacks) by detecting newly connected HID devices and requiring explicit 
+(such as Rubber Ducky–style attacks, pyDucky etc.) by detecting newly connected HID devices and requiring explicit 
 user approval before input is allowed.
 
 The application focuses on practical, user-mode protection for private users, providing an additional 
